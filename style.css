@@ -62,5 +62,9 @@ body{
     border-width: thick;
     border-radius: 3px;
 }
-
+/* hover effect to button */
+#reset:hover{
+    background-color: orangered;
+    color: white;
+}
 /* TODO: Add hover effect to reset button */
