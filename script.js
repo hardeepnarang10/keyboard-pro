@@ -77,3 +77,10 @@ function reset() {
 
 
 //TODO: add event listener(s) to keyboard input
+document.addEventListener('keydown',function(){
+  start();
+});
+
+resetButton.addEventListener('click',function(){
+  reset();
+})
