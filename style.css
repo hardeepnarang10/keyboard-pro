@@ -63,4 +63,9 @@ body{
     border-radius: 3px;
 }
 
+#reset:hover {
+    background-color: #b43b24;
+    color: white;
+    
+  }
 /* TODO: Add hover effect to reset button */
